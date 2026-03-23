@@ -25,7 +25,7 @@ Projet réalisé dans le cadre du cours INF222 – Développement Backend.
 
 1. Cloner le dépôt
 ```bash
-git clone https://github.com/ton-compte/blog-api.git
+git clone https://github.com/lizatsague7-ar/blog-api.git
 cd blog-api
 ```
 
