@@ -53,14 +53,16 @@ http://localhost:3000/api-docs
 ---
 
 Endpoints de l'API
+## Endpoints de l'API
 
-Méthode Endpoint Description
-POST /api/articles Créer un article
-GET /api/articles Récupérer tous les articles
-GET /api/articles/{id} Récupérer un article par son ID
-PUT /api/articles/{id} Modifier un article
-DELETE /api/articles/{id} Supprimer un article
-GET /api/articles/search?q={mot} Rechercher un article (titre ou contenu)
+| Méthode | Endpoint | Description |
+|---------|----------|-------------|
+| POST | `/api/articles` | Créer un article |
+| GET | `/api/articles` | Récupérer tous les articles |
+| GET | `/api/articles/{id}` | Récupérer un article par son ID |
+| PUT | `/api/articles/{id}` | Modifier un article |
+| DELETE | `/api/articles/{id}` | Supprimer un article |
+| GET | `/api/articles/search?q={mot}` | Rechercher un article (titre ou contenu) |
 
 ---
 
